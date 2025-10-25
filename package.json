@@ -1,0 +1,31 @@
+{
+  "name": "red-contrib-tp2-iot",
+  "version": "1.0.0",
+  "description": "node example",
+  "node-red": {
+  "nodes": {
+    "ibtissem": "node.js"
+  }
+},
+
+  "keywords": [
+    "iot",
+    "node-red",
+    ".."
+  ],
+  "homepage": "https://github.com/IbtissemLW/node-red-contrib-TP2-IOT#readme",
+  "bugs": {
+    "url": "https://github.com/IbtissemLW/node-red-contrib-TP2-IOT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbtissemLW/node-red-contrib-TP2-IOT.git"
+  },
+  "license": "ISC",
+  "author": "Ibtissem Mabrouk",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
